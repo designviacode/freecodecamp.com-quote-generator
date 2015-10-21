@@ -1,6 +1,7 @@
 # Random-Quote-Generator-FreeCodeCamp
-This is my Submission for Basic Frontend Zipline Project @FreeCodeCamp  Profile Link : 
+-------------------------------------------
+This is my Submission for Basic Frontend Zipline Project @FreeCodeCamp : 
 # Link : 
---------------------------------------
-http://freecodecamp.com/designviacode 
+-------------------------------------------
+FreeCodeCamp Profile Link : http://freecodecamp.com/designviacode 
 Codepen Link : http://codepen.io/manpreet/pen/RWRmbW
