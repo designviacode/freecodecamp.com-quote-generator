@@ -1,0 +1,30 @@
+{
+  "name": "random-quote-generator-freecodecamp",
+  "version": "1.0.0",
+  "description": "This is my first Submission to the Basic Frontend Zipline Project@FreeCodeCamp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designviacode/Random-Quote-Generator-FreeCodeCamp.git"
+  },
+  "keywords": [
+    "quote",
+    "generator",
+    "freecodecamp",
+    "project"
+  ],
+  "author": "Manpreet Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/designviacode/Random-Quote-Generator-FreeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/designviacode/Random-Quote-Generator-FreeCodeCamp#readme",
+  "dependencies": {
+    "animate.css": "^3.4.0",
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.3"
+  }
+}
